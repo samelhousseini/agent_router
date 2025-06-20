@@ -1,0 +1,12 @@
+semantic-kernel
+requests
+notebook
+ipykernel
+pandas
+openai
+python-dotenv
+pydantic
+rich
+tenacity
+pillow
+tiktoken
